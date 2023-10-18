@@ -13,10 +13,10 @@
         <th></th>
         <th>Calyptia</th>
         <th>Fluent Bit</th>
-        <th>Fluent D</th>
+        <th>FluentD</th>
         <th>Calyptia</th>
         <th>Fluent Bit</th>
-        <th>Fluent D</th>
+        <th>FluentD</th>
     </tr>
     <tr>
         <th>color</th>
@@ -34,7 +34,7 @@
         <td><img src="FluentD/PNG/Logo_WhiteText.png" width="200"></td>
         <td><img src="Calyptia/SVG/Logo_WhiteText.svg" width="200"></td>
         <td><img src="FluentBit/SVG/Logo_WhiteText.svg" width=200></td>
-        <td><img src="FluentD/SVG/Logo_Color-WhiteText.svg" width=200></td>
+        <td><img src="FluentD/SVG/Logo_Color-TextWhite.svg" width=200></td>
     </tr>
     <tr>
         <th>black</th>
